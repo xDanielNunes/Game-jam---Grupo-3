@@ -21,3 +21,7 @@ Por se tratar de um **protótipo**, vários elementos ainda podem ser alterados 
 
 ⚠️ Este jogo está em **fase de protótipo** e foi criado para fins de experimentação durante a Game Jam.  
 Mudanças e melhorias ainda podem ser feitas nas mecânicas, interface e conteúdo do jogo.
+
+## Builds para avaliação inicial do protótipo
+
+https://github.com/xDanielNunes/Game-jam---Grupo-3/releases/tag/pre_release
