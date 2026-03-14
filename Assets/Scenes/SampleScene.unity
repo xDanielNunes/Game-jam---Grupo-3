@@ -4825,12 +4825,20 @@ PrefabInstance:
       value: Background
       objectReference: {fileID: 0}
     - target: {fileID: 6127163220845065871, guid: 8e14d992b435d3040824e69f0078ed73, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 314.05197
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127163220845065871, guid: 8e14d992b435d3040824e69f0078ed73, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 245.89412
+      objectReference: {fileID: 0}
+    - target: {fileID: 6127163220845065871, guid: 8e14d992b435d3040824e69f0078ed73, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.72
+      value: 8.301
       objectReference: {fileID: 0}
     - target: {fileID: 6127163220845065871, guid: 8e14d992b435d3040824e69f0078ed73, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.56
+      value: -2.2337
       objectReference: {fileID: 0}
     - target: {fileID: 6127163220845065871, guid: 8e14d992b435d3040824e69f0078ed73, type: 3}
       propertyPath: m_LocalPosition.z
